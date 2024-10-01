@@ -1,6 +1,6 @@
 # Predictive-Modeling-of-Homestay-Prices
 
-# Airbnb Homestay Price Prediction
+
 
 ## Objective
 Developed a predictive regression model to determine homestay prices for Airbnb properties, aiming to uncover key pricing factors and provide actionable business insights for more effective decision-making.
