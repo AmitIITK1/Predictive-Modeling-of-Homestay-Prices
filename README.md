@@ -76,4 +76,4 @@ We focused on the following aspects:
 - **Leadership & Project Management**: Managed the project end-to-end, from data collection to modeling, analysis, and presentation of results.
 
 ## How to Run the Project
-https://github.com/yourusername/Airbnb-Price-Prediction-Project.git](https://github.com/Humarth369/Predictive-Modeling-of-Homestay-Prices/blob/main/Predictive-Modeling-of-Homestay-Prices.ipynb)
+Predictive-Modeling-of-Homestay-Prices.ipynb
