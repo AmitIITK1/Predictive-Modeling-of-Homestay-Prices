@@ -1,4 +1,4 @@
-# Airbnb Homestay Price Prediction Project
+# Predictive-Modeling-of-Homestay-Prices
 
 ## Objective
 This project aims to predict homestay prices for Airbnb properties using a regression model. The goal is to uncover key factors influencing price fluctuations and provide actionable business insights for better pricing strategies. The analysis helps to inform decisions regarding the Airbnb marketplace by leveraging data analytics and machine learning techniques.
