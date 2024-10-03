@@ -18,10 +18,14 @@ We focused on the following aspects:
 1. **Exploratory Data Analysis (EDA)**:
    - A thorough EDA process was conducted using Python libraries such as Pandas and Matplotlib to understand data distribution, relationships between variables, and outliers.
    - Visualized relationships using heatmaps, boxplots, and correlation matrices to identify trends and potential anomalies in the data.
+   - ![image](https://github.com/user-attachments/assets/91109e65-b143-4708-b71e-ebc4cce9a8ec)
+
 
 2. **Data Preprocessing**:
    - **Missing Values Treatment**: Missing data was handled using advanced imputation methods. We experimented with mean, median, and K-Nearest Neighbors (KNN) imputation to predict missing values and improve data completeness.
    - **Outlier Detection and Treatment**: Outliers were detected using Interquartile Range (IQR) and boxplot visualizations. This step was critical to ensure the robustness of the model.
+![image](https://github.com/user-attachments/assets/be62dae2-2318-40ff-b4b5-e8eb4aed9e25)
+![image](https://github.com/user-attachments/assets/23cdfe7c-f916-49d0-b175-b075a3ae60c2)
 
 3. **Feature Engineering**:
    - Created new features by analyzing correlations between existing variables and the target variable (log_price).
@@ -58,9 +62,10 @@ We focused on the following aspects:
 - Extracted coefficients and intercepts to interpret the influence of independent variables on pricing.
 - Fine-tuned model hyperparameters using grid search to optimize performance.
 - Compared results across datasets, ultimately achieving **50.3% accuracy** with the KNN-imputed dataset, without outlier treatment.
+- ![image](https://github.com/user-attachments/assets/c9c06a74-15b9-41c9-bb69-10d6d252bb4c)
+
 
 ### 6. Model Evaluation:
-- **Performance Metrics**: Evaluated models using metrics such as Root Mean Square Error (RMSE), Mean Absolute Error (MAE), and R-squared to ensure comprehensive evaluation.
 - Achieved the highest accuracy with the KNN-imputed dataset, which outperformed other models across multiple validation tests.
 
 ## Results & Business Insights
