@@ -75,5 +75,3 @@ We focused on the following aspects:
 - **Visualization**: Presented results using heatmaps, boxplots, and correlation matrices to help stakeholders understand the impact of various features on pricing. 
 - **Leadership & Project Management**: Managed the project end-to-end, from data collection to modeling, analysis, and presentation of results.
 
-## How to Run the Project
-Predictive-Modeling-of-Homestay-Prices.ipynb
